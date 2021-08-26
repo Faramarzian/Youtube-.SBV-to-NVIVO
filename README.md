@@ -9,4 +9,7 @@ i ran this using anaconda, but you can use google colab just make sure you uploa
 
 have fun and if you fix any of my problems please let me know i would like to learn how to do it better.
 
+IMPORTANT. At the end of the output file there is an extra tab or "\t" which i don't know how to remove you just have to remove it manually. 
+so you would have to open the text file, scroll to the end and delete the last empty space and save it. 
+
 May the source be with you. 
