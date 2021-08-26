@@ -13,6 +13,6 @@ IMPORTANT. At the end of the output file there is an extra tab or "\t" which i d
 so you would have to open the text file, scroll to the end and delete the last empty space and save it. 
 
 if you are not a programmer here is a video 
-[![Watch the video](https://www.youtube.com/embed/zlPwvBtPjI8)
+[![Watch the video](https://i.imgur.com/oodbLGh.png)](https://www.youtube.com/embed/zlPwvBtPjI8)
 
 May the source be with you. 
