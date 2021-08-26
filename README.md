@@ -12,4 +12,7 @@ have fun and if you fix any of my problems please let me know i would like to le
 IMPORTANT. At the end of the output file there is an extra tab or "\t" which i don't know how to remove you just have to remove it manually. 
 so you would have to open the text file, scroll to the end and delete the last empty space and save it. 
 
+if you are not a programmer here is a video 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zlPwvBtPjI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 May the source be with you. 
